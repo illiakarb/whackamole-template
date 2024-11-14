@@ -1,5 +1,5 @@
 import pygame
-
+# Suka blyat
 
 def main():
     try:
